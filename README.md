@@ -1,7 +1,5 @@
 # Quantitative Analysis Tools
----
 ## Table of Contents
----
 1. Stock Price Data Downloader
 2. Daily Returns Calculator
 3. Moving Average Crossover Strategy
