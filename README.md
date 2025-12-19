@@ -14,7 +14,7 @@ Each project is self-contained and emphasizes clarity, reproducibility, and fina
 6. Candlestick & Volume Chart Visualizer
 7. Market Regime Classifier (trend / range / volatility regimes)
 ### Level 2: Statistical Modeling & Simulation
-*Probabilistic thinking and uncertainty modeling
+*Probabilistic thinking and uncertainty modeling*
 8. Monte Carlo Stock Price Simulator
 9. Distribution Analysis of Returns (fat tails, skewness)
 10. Value-at-Risk (VaR & CVaR) Calculator
